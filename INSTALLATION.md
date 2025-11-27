@@ -1,7 +1,6 @@
-# Instal·lació de LAMP stack a Ubuntu 24.04
+## Instal·lació de LAMP stack a Ubuntu 24.04 ##
 
-Aquesta guia explica pas a pas com instal·lar una pila **LAMP** (Linux, Apache, MySQL, PHP) en un sistema Ubuntu 24.04 net amb privilegis `sudo`.
-
+Per instal·lar una pila LAMP (Linux, Apache, MySQL, PHP) a Ubuntu 24.04, segueix aquests passos detallats. Aquesta guia assumeix que comences amb un sistema net d’Ubuntu 24.04 i tens privilegis sudo.
 
 ## 1. Actualitza el sistema
 
