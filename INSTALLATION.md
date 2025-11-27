@@ -5,3 +5,13 @@ Per instal·lar una pila LAMP (Linux, Apache, MySQL, PHP) a Ubuntu 24.04, seguei
 ## 1.1 Actualitza el sistema
 
 bash sudo apt update && sudo apt upgrade -y
+
+## 1.2 Instal·la Apache
+
+bash sudo apt install apache2 -y
+
+**Activa i inicia el servei:** bash sudo systemctl enable apache2 sudo systemctl start apache2
+
+**Verifica l’estat:** bash sudo systemctl status apache2
+
+Visita http://localhost/ per veure la pàgina per defecte d’Apache.
