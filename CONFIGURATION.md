@@ -20,15 +20,15 @@
 
 ### ***1.2 Para crear una carpeta nueva:***
 
-- ### ***Tienes que ir a "Todos los fitcheros":***
+- ### ***Tienes que ir a "Todos los fitcheros" darle a "+ Nuevo" i por último darle a "Nueva Carpeta" :***
 
 <img width="1044" height="312" alt="Foto_4_GitHub" src="https://github.com/user-attachments/assets/732116ca-9dd3-4d4e-a011-4619e123a734" />
 
-- ### ***Darle a "+ Nuevo":***
+- ### ***Donde tendras que ponerle el nombre que quieras asignarle por ejemplo "Carpeta de Prueba":***
 
 <img width="487" height="219" alt="Foto_5_GitHub" src="https://github.com/user-attachments/assets/73915a11-1527-40df-80a9-a3c347a30cb2" />
 
-- ### ***I por último darle a "Crear Carpeta" donde tendras que ponerle el nombre que quieras asignarle por ejemplo "Carpeta de Prueba":***
+- ### ***I ya tendras la carpeta creada:***
 
 <img width="1857" height="574" alt="Foto_6_GitHub" src="https://github.com/user-attachments/assets/0137362c-91d4-4f7c-bd5c-c06c3630aaa2" />
 
