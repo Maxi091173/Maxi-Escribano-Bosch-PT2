@@ -6,15 +6,15 @@
 
 ### ***1.1 Para subir un fitchero:***
 
-- ### ***Tienes que ir a "Todos los fitcheros":***
+- ### ***Tienes que ir a "Todos los fitcheros", darle a "+ Nuevo":***
 
 <img width="1023" height="391" alt="Foto_1_github" src="https://github.com/user-attachments/assets/bba1a91a-3c55-4622-8222-df4ae18ebbdf" />
 
-- ### ***Darle a "+ Nuevo":***
+- ### ***I por último darle a "Subir archibo" i ya lo tendras ahí:***
 
 <img width="850" height="403" alt="Foto_2_Github" src="https://github.com/user-attachments/assets/a066da0c-292d-42fd-989f-a54ff12317bb" />
 
-- ### ***I por último darle a "Subir archibo" i ya lo tendras ahí:***
+- ### ***I ya lo tendras ahí:***
 
 <img width="1544" height="539" alt="Foto_3_GitHub" src="https://github.com/user-attachments/assets/ceaee9c0-46c7-44c6-92d3-b06f0d0352c9" />
 
