@@ -36,8 +36,7 @@
 
 - ### ***I ya tendras la carpeta creada:***
 
-![Text alternatiu](<img width="1290" height="534" alt="Foto_Github_7" src="https://github.com/user-attachments/assets/3b7e8bb7-e7d9-44cd-a9b3-b29b8801ee3b" />
-"Foto_Github_7")
+![Text alternatiu](Foto_Github_7.png)
   
 - ### ***I ya tendras la carpeta creada:***
 
