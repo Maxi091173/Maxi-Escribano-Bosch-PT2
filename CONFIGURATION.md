@@ -12,7 +12,7 @@
 
 - ### ***I por último selecccionar el archivo que quieres subir i hacer doble click:***
 
-<img width="850" height="403" alt="Foto_2_Github" src="https://github.com/user-attachments/assets/a066da0c-292d-42fd-989f-a54ff12317bb" />
+<img width="850" height="403" alt="Foto_2_Github" src="https://github.com/user-attachments/assets/a066da0c-292d-42fd-989fa54ff12317bb" />
 
 - ### ***I ya lo tendras ahí:***
 
