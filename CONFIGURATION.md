@@ -34,7 +34,12 @@
 
 ### ***1.3 Para Compartir contenido:***
 
-<img width="1848" height="483" alt="Captura de pantalla 2025-11-28 142542" src="https://github.com/user-attachments/assets/327ff7b0-6740-4eb6-be91-808439136fe3" />
+- ### ***I ya tendras la carpeta creada:***
+
+<img width="1848" height="483" alt="Captura de pantalla 2025-11-28 142542" src="https://github.com/user-attachments/
+  assets/327ff7b0-6740-4eb6-be91-808439136fe3" />
+  
+- ### ***I ya tendras la carpeta creada:***
 
 <img width="1847" height="577" alt="Captura de pantalla 2025-11-28 142633" src="https://github.com/user-attachments/assets/29d881e4-9a8a-4ff2-8b56-6d1ad1af36bc" />
 
