@@ -36,8 +36,8 @@
 
 - ### ***I ya tendras la carpeta creada:***
 
-<img width="1848" height="483" alt="Captura de pantalla 2025-11-28 142542" src="https://github.com/user-attachments/
-  assets/327ff7b0-6740-4eb6-be91-808439136fe3" />
+![Text alternatiu](<img width="1290" height="534" alt="Foto_Github_7" src="https://github.com/user-attachments/assets/3b7e8bb7-e7d9-44cd-a9b3-b29b8801ee3b" />
+"Foto_Github_7")
   
 - ### ***I ya tendras la carpeta creada:***
 
