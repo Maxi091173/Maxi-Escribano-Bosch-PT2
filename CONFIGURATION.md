@@ -9,11 +9,12 @@
 - ### ***Tienes que ir a "Todos los fitcheros", darle a "+ Nuevo":***
 
 ![Text alternatiu](Foto_1_github.png)
-- ### ***I por último selecccionar el archivo que quieres subir i hacer doble click:***
+
+- ### ***Y por último selecccionar el archivo que quieres subir i hacer doble click:***
 
 ![Text alternatiu](Foto_2_Github.png)
 
-- ### ***I ya lo tendras ahí:***
+- ### ***Y ya lo tendras ahí:***
 
 ![Text alternatiu](Foto_3_GitHub.png)
 
@@ -27,11 +28,12 @@
 
 ![Text alternatiu](Foto_5_GitHub.png)
 
-- ### ***I ya tendras la carpeta creada:***
+- ### ***Y ya tendras la carpeta creada:***
 
 ![Text alternatiu](Foto_6_GitHub.png)
 
 ### ***1.3 Para Compartir contenido:***
+
 - ### ***Para compartir un contenido, tienes que darle al icono donde hay una persona i un simbolo de + de la carpeta o fitchero que quieres compartir:***
 
 ![Text alternatiu](Foto_Github_7.png)
