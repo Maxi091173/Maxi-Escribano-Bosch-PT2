@@ -32,11 +32,10 @@
 ![Text alternatiu](Foto_6_GitHub.png)
 
 ### ***1.3 Para Compartir contenido:***
-
-- ### ***I ya tendras la carpeta creada:***
+- ### ***Para compartir un contenido, tienes que darle al icono donde hay una persona i un simbolo de +:***
 
 ![Text alternatiu](Foto_Github_7.png)
   
-- ### ***I ya tendras la carpeta creada:***
+- ### ***Ahora simplemente tendras que rellenar la informacion, como poner el correo electronico i el nombre de a quien/es quieres enviarselo:***
 
 ![Text alternatiu](Foto_Github_8.png)
