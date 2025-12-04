@@ -8,4 +8,4 @@
 
 # OBVERSACIONES:
 
-- ***En general el projecto fue dificil de hacer, simplemente por falta de experiencia en estos temas y la falta de información, pero invewstigando un buen rato, lo pude hacer.***
+- ***En general el projecto fue dificil de hacer, simplemente por falta de experiencia en estos temas y la falta de información, pero investigación por un buen rato, lo pude hacer.***
