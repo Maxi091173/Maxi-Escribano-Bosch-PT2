@@ -1,3 +1,11 @@
-[Enllaç a CONFIGURATION](https://github.com/Maxi091173/Maxi-Escribano-Bosch-PT2/blob/main/CONFIGURATION.md)
+# DESCRIPCIÓ
 
-[Enllaç a INSTALLATION](https://github.com/Maxi091173/Maxi-Escribano-Bosch-PT2/blob/main/INSTALLATION.md)
+- ***En este proyecto hos explicare como crear una máquina dentro de IsardVDI. Después, como configurado la máquina virtual, intalar Nextcloud i como configurarlo:***
+
+# [CONFIGURATION](https://github.com/Maxi091173/Maxi-Escribano-Bosch-PT2/blob/main/CONFIGURATION.md)
+
+# [INSTALLATION](https://github.com/Maxi091173/Maxi-Escribano-Bosch-PT2/blob/main/INSTALLATION.md)
+
+# OBVERSACIONES:
+
+- ***En general el projecto fue dificil de hacer, simplemente por falta de experiencia en estos temas y la falta de información, pero invewstigando un buen rato, lo pude hacer.***
