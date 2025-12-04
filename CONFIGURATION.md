@@ -97,7 +97,7 @@
 
 ![Text alternatiu](Foto_Github_14.png)
 
-## Creación de Administración de fitxeros/Politíques de seguridad
+## Creación de Administración de fitxeros/Politicas de seguridad
 
 ### ***3.1 Como crear una administración de archivos:***
 
@@ -108,4 +108,14 @@
 - ### ***Ahora dentro de nuestra carpeta, simplemente crearemos algunas carpetas mas, en mi caso cree estas: "Fotos, Trabajos compartidos y Projecto". Y finalmente dentro de estas ya podremos meter todos nyestros archivos/fitcheros que queramos guardar i organizar":***
 
 ![Text alternatiu](Foto_Github_15.png)
+
+### ***3.2 Como poner políticas de seguridad en nuestra carpeta:***
+
+- ### ***Para poner políticas de seguridad en una carpeta es bastante sencillo, primero nos iremos a la carpeta que queremos ponerselo, en mi ejemplo lo pondre en mi carpeta de "Documentos personales" y cuando estemos dentro iremos a la ventana de compartir":***
+
+![Text alternatiu](Foto_Github_16.png)
+
+- ### ***Ahora, le daremos en donde pone "Create public link", seguidamente, le daremos a los tres puntitos al lado de donde pone "share link", le daremos a "Customize link" y allí añadiremos una contraseña y una fecha de caducidad, esto servira para cuando alguien comparta el link de nuestra carpeta, necesiten si o si la contraseña para entrar y por si acaso pondremos la fecha de caducidad del link tambien":***
+
+![Text alternatiu](Foto_Github_17.png)
 
