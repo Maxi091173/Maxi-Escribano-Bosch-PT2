@@ -96,3 +96,8 @@
 - ### ***VISUALIZADOR":***
 
 ![Text alternatiu](Foto_Github_14.png)
+
+## Creación de Administración de fitxeros/Politíques de seguridad
+
+### ***3.1 Como crear una administración de archivos:***
+
