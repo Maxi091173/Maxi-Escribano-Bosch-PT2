@@ -41,3 +41,7 @@
 - ### ***Ahora simplemente tendras que rellenar la informacion, como poner el correo electronico i el nombre de a quien/es quieres enviarselo i compartirselo:***
 
 ![Text alternatiu](Foto_Github_8.png)
+
+## Creación de cuentas/Permisos/Efecto de los diferentes permisos
+
+### ***2.1 Creación de cuenatas:***
