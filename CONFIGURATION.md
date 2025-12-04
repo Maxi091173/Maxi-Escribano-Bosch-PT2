@@ -101,3 +101,11 @@
 
 ### ***3.1 Como crear una administración de archivos:***
 
+- ### ***Para crear un sistema de archivos es muy sencillo, tendremos que hacer lo mismo que en el apartado "1.2", crearemos una carpeta, en mi caso la llamre "Documentos personales"":***
+
+![Text alternatiu](Foto_Github_15.png)
+
+- ### ***Ahora dentro de nuestra carpeta, simplemente crearemos algunas carpetas mas, en mi caso cree estas: "Fotos, Trabajos compartidos y Projecto". Y finalmente dentro de estas ya podremos meter todos nyestros archivos/fitcheros que queramos guardar i organizar":***
+
+![Text alternatiu](Foto_Github_15.png)
+
